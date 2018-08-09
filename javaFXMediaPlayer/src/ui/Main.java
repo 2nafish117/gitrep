@@ -1,3 +1,5 @@
+////changes made in se lab
+
 package ui;
 
 import javafx.application.Application;
@@ -23,7 +25,8 @@ public class Main extends Application //implements Runnable
     Media video;
     MediaPlayer videoPlayer;
     MediaView videoView;
-
+    //////////////////////////////////////////
+    int seLab;
     Button togglePlayButton;
     Boolean ispaused = false;
 
